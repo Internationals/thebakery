@@ -10,7 +10,7 @@
 
 
 <body>
-
+<link rel="stylesheet" type="text/css" href="css/bakery.css" media="screen" />
 <div id="menu"> 
 	<ul>
 		<li><a href="home.php">Home</a></li>
