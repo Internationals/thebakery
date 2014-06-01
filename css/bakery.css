@@ -5,3 +5,13 @@
 	background-color:silver;	
 
 	}
+#background
+{
+    background-color:silver;
+    height:auto;
+}
+
+#Everything
+{
+    position: absolute; top: 450px; left: 240px; width: 900px; background-color: #79CDCD; color: white;
+}
