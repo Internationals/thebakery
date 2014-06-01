@@ -7,17 +7,15 @@
 
 
 
-
-
 <body>
 <link rel="stylesheet" type="text/css" href="css/bakery.css" media="screen" />
-<div id="menu"> 
-	<ul>
+ 
+	<ul id="menu">
 		<li><a href="home.php">Home</a></li>
 		<li><a href="about.php">About</a></li>
 		<li><a href="login.php">Login</a></li>
 	</ul>
-</div>
+
 
 
 
